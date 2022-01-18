@@ -6,3 +6,5 @@ This will generate a conflict.
 New change to simulate conflict.
 
 Another conflict.
+
+Changes to be committed.
