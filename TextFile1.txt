@@ -3,3 +3,4 @@ This is a second line in the file.
 Hi my name is Marco.
 Hi I'm Ben!
 This will generate a conflict.
+New change to simulate conflict.
